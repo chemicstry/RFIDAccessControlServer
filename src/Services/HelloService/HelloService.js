@@ -1,5 +1,5 @@
-const Service = require('./Service.js');
-const Log = require('./Log.js');
+const Service = require('../../Service.js');
+const Log = require('../../Log.js');
 
 class HelloService extends Service
 {
